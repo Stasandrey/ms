@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project ms -->
-<!-- Saved: 2020-10-15, 13:25:52 -->
+<!-- Saved: 2020-10-26, 16:43:46 -->
 <!-- Copyright (C) 2020 Андрей Стащенюк, staschenyuk.andrey@gmail.com -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -16,6 +16,9 @@
     <Source>__init__.py</Source>
     <Source>run.py</Source>
   </Sources>
+  <Others>
+    <Other>ecp.txt</Other>
+  </Others>
   <MainScript>run.py</MainScript>
   <Vcs>
     <VcsType>Git</VcsType>
